@@ -2,3 +2,6 @@
 My first project in GitHub
 Editing the readme file for commit
 TEST FILE FOR FETCH
+TEST WORKING DIRECTORY
+TEST WORKING DIRECTORY 2
+TEST WORKING DIRECTORY 3
